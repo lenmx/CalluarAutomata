@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\CellularAutomata\CellularAutomata\bin\Debug\netcoreapp3.0\CellularAutomata.exe
+C:\Users\Administrator\source\repos\CellularAutomata\CellularAutomata\bin\Debug\netcoreapp3.0\CellularAutomata.deps.json
+C:\Users\Administrator\source\repos\CellularAutomata\CellularAutomata\bin\Debug\netcoreapp3.0\CellularAutomata.runtimeconfig.json
+C:\Users\Administrator\source\repos\CellularAutomata\CellularAutomata\bin\Debug\netcoreapp3.0\CellularAutomata.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\CellularAutomata\CellularAutomata\bin\Debug\netcoreapp3.0\CellularAutomata.dll
+C:\Users\Administrator\source\repos\CellularAutomata\CellularAutomata\bin\Debug\netcoreapp3.0\CellularAutomata.pdb
+C:\Users\Administrator\source\repos\CellularAutomata\CellularAutomata\obj\Debug\netcoreapp3.0\CellularAutomata.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\CellularAutomata\CellularAutomata\obj\Debug\netcoreapp3.0\CellularAutomata.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CellularAutomata\CellularAutomata\obj\Debug\netcoreapp3.0\CellularAutomata.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CellularAutomata\CellularAutomata\obj\Debug\netcoreapp3.0\CellularAutomata.dll
+C:\Users\Administrator\source\repos\CellularAutomata\CellularAutomata\obj\Debug\netcoreapp3.0\CellularAutomata.pdb
